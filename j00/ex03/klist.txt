@@ -1,0 +1,6 @@
+Credentials cache: API:C627485C-247B-44F0-B6F2-AF666C5ECCCD
+        Principal: kitrosse@42.FR
+
+  Issued                Expires               Principal
+Aug 29 16:45:53 2016  Sep  5 16:45:53 2016  krbtgt/42.FR@42.FR
+Aug 29 16:45:54 2016  Sep  5 16:45:53 2016  ldap/ldap-proxy.42.fr@42.FR
